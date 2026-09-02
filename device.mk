@@ -153,7 +153,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/dolby/dax-default-spatializer.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default-spatializer.xml \
 
 PRODUCT_PACKAGES += \
-    DolbyAtmos
+    XiaomiDolby
 
 # DRM
 PRODUCT_PACKAGES += \
